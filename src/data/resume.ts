@@ -16,9 +16,9 @@ export const resumeData = {
     }
   },
   basics: {
-    name: "Suvajit Sarkar",
+    name: "Bob Biswas",
     designation: "Senior Full Stack Engineer",
-    email: "hello@suvajit.in",
+    email: "",
     phone: "+91 981 151 4646",
     showPhoneNumber: false, // Show phone on website
     showPhoneNumberInPDF: true, // Show phone in PDF
